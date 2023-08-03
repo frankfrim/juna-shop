@@ -249,7 +249,7 @@ section {
 }
 
 #preloader:after {
-  animation-delay: -0.5s;
+  animation-delay: -0.05s;
 }
 
 @keyframes animate-preloader {
